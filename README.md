@@ -2,6 +2,8 @@
 
 The project consists in an attempt to replicate the billiards simulation game called [Virtual Pool](http://www.celeris.com/virtual_pool_3_windows.html) ((c) Celeris). So far, the project implements a 3D game environment including a pool table, lamps, chairs, a cue stick and billiard balls. It allows the user to shoot the cue ball and watch the balls collide and fall into pockets. No specific billiard game rules have been implemented yet. User friendly camera controls and cue striking mechanism are identical to the original Virtual Pool.
 
+![screenshot1](screenshot1.png)
+
 ## Current features: ##
   * Real 3D models loaded from WaveFront format (.obj)
   * Realistic ball physics in collisions and drag force simulation
@@ -38,10 +40,6 @@ The project consists in an attempt to replicate the billiards simulation game ca
 
 ## Requirements: ##
   * Uses [OpenGL dll](lib) for Windows x86, which means it requires Windows with Java JRE version for x86 (It will work on Windows x64, but the Java installation must be for x86)
-
-## Screenshot: ##
-
-![screenshot1](https://code.google.com/archive/p/virtual-pool-zero/)
 
 ---
 exported from https://code.google.com/archive/p/virtual-pool-zero/
